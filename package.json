@@ -12,6 +12,6 @@
   "dependencies": {
     "express":"latest",
     "ejs":"latest",
-    "ssh2":"1.0.0"
+    "ssh2":"1.11.0"
   }
 }
